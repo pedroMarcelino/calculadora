@@ -1,0 +1,345 @@
+/**/
+
+#corpo{
+    background-color: #1a1a1a;   
+    color: #1a1a1a; 
+
+}
+
+#result{
+    margin-left: 12%;
+    width: 88%;
+    border-color: black;
+    height: 45px;
+    font-size: 25px;
+}
+
+#btn1{
+    margin-top: 15%;
+    margin-left: 57%;
+    background-color:#1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn1:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn2{
+    margin-top: 15%;
+    margin-left: 35%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn2:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn3{
+    margin-top: 15%;
+    margin-left: 10px;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn3:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btnMais{
+    margin-top: 15%;
+    margin-left: -10px;
+    background-color: #ff751a;
+    color: black;
+    border-color: black;
+    height: 40px;
+    font-size: 20px;
+    width:45px;
+    border-radius: 100%;
+}
+
+
+#btn4{
+    margin-top: 15%;
+    margin-left: 57%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn4:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn5{
+    margin-top: 15%;
+    margin-left: 35%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn5:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn6{
+    margin-top: 15%;
+    margin-left: 10px;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn6:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btnMenos{
+    margin-top: 15%;
+    margin-left: -10px;
+    background-color: #ff751a;
+    color: black;
+    border-color: black;
+    height: 40px;
+    font-size: 20px;
+    width:45px;
+    border-radius: 100%;
+    text-align: center;
+}
+
+#btn7{
+    margin-top: 15%;
+    margin-left: 57%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn7:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn8{
+    margin-top: 15%;
+    margin-left: 35%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn8:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn9{
+    margin-top: 15%;
+    margin-left: 10px;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn9:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btnMult{
+    margin-top: 15%;
+    margin-left: -10px;
+    background-color: #ff751a;
+    color: black;
+    border-color: black;
+    height: 40px;
+    font-size: 20px;
+    width:45px;
+    border-radius: 100%;
+    text-align: center;
+}
+
+#btn7{
+    margin-top: 15%;
+    margin-left: 57%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn7:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn8{
+    margin-top: 15%;
+    margin-left: 35%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn8:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn9{
+    margin-top: 15%;
+    margin-left: 10px;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn9:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btnMult{
+    margin-top: 15%;
+    margin-left: -10px;
+    background-color: #ff751a;
+    color: black;
+    border-color: black;
+    height: 40px;
+    font-size: 20px;
+    width:45px;
+    border-radius: 100%;
+}
+
+#btnPonto{
+    margin-top: 15%;
+    margin-left: 57%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btnPonto:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btn0{
+    margin-top: 15%;
+    margin-left: 35%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btn0:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btnIgual{
+    margin-top: 15%;
+    margin-left: 10px;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8%;
+}
+#btnIgual:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+#btnDividir{
+    margin-top: 15%;
+    margin-left: -10px;
+    background-color: #ff751a;
+    color: black;
+    border-color: black;
+    height: 40px;
+    font-size: 20px;
+    width:45px;
+    border-radius: 100%;
+}
+
+#btnClear{
+    margin-top: 2%;
+    margin-left: 10%;
+    width: 88%;
+    background-color: #1a1a1a;
+    color: #ff4d4d;
+    border-color: #ff4d4d;
+    width: 82%;
+    font-size: 25px;
+}
+#btnClear:hover{
+    background-color: #ff4d4d;
+    color: #1a1a1a;
+    border-color: #ff4d4d;
+}
+
+.calculadora{
+    width: 20%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
